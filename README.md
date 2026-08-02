@@ -34,8 +34,8 @@ Netflix, Spotify, and Steam all use recommendation systems to help users discove
 ## Setup
 
 ```bash
-git clone https://github.com/YOUR-GITHUB/steam-game-recommender.git
-cd steam-game-recommender
+git clone https://github.com/Shahal-Kalady/Game-Recommendation-Engine.git
+cd Game-Recommendation-Engine
 pip install pandas scikit-learn
 ```
 

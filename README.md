@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/30636513/README.md)# Steam Game Recommendation Engine
+# Steam Game Recommendation Engine
 
 A content-based recommendation engine that suggests similar Steam games based on genre, category, tags, developer, and description — built with Python, pandas, and scikit-learn.
 
